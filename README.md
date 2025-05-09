@@ -39,13 +39,13 @@
 
 ## 🛠️ How to Run the Project Locally
 
-### 1. Clone the Repository
+**### 1. Clone the Repository**
 
 ```bash
 git clone https://github.com/ketansonwane7781/devconnect.git
 cd devconnect
-
-### 2. Set up the Backend
+**
+### 2. Set up the Backend**
 
 cd backend
 npm install
@@ -59,13 +59,13 @@ JWT_SECRET=your_jwt_secret
 Then start the server:
 npm start
 
-### 3. Set up the Frontend
+**### 3. Set up the Frontend**
 
 cd ../frontend
 npm install
 npm start
 
-🌐 App Usage
+**🌐 App Usage**
 Visit http://localhost:3000 to access the app
 
 Register a new account
@@ -87,7 +87,7 @@ View your or other developers' profiles via /profile/:id
 👤 Profile Page
 
 
-🧠 Learning Objectives
+**🧠 Learning Objectives**
 Build a full stack web app from scratch
 
 Use Redux for state management
@@ -96,7 +96,7 @@ Implement token-based authentication
 
 Handle protected routes in frontend and backend
 
-🗃️ Version Control
+**🗃️ Version Control**
 Use the following commands to push your code:
 
 bash
@@ -107,7 +107,7 @@ git checkout -b main
 git add .
 git commit -m "initial commit"
 git push -u origin main
-
-📬 Contact
+**
+📬 Contact**
 Built with ❤️ by Ketan Sonawane
 

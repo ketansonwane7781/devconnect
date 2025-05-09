@@ -31,47 +31,8 @@
 
 ## 📁 Folder Structure
 
-devconnect/
-├── frontend/
-│ ├── public/
-│ │ └── index.html
-│ └── src/
-│ ├── components/
-│ │ └── Navbar.js
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── Login.js
-│ │ ├── Register.js
-│ │ ├── Dashboard.js
-│ │ └── Profile.js
-│ ├── redux/
-│ │ ├── store.js
-│ │ └── userSlice.js
-│ ├── App.js
-│ └── index.js
-├── backend/
-│ ├── config/
-│ │ └── db.js
-│ ├── controllers/
-│ │ ├── authController.js
-│ │ └── userController.js
-│ ├── middleware/
-│ │ └── authMiddleware.js
-│ ├── models/
-│ │ └── User.js
-│ ├── routes/
-│ │ ├── authRoutes.js
-│ │ └── userRoutes.js
-│ ├── .env
-│ ├── server.js
-├── screenshots/
-│ ├── landing.png
-│ ├── login.png
-│ ├── register.png
-│ ├── dashboard.png
-│ └── profile.png
-├── README.md
-└── package.json
+![image](https://github.com/user-attachments/assets/00047e93-76c3-4644-92dc-b70dcf046e17)
+
 
 
 ---
